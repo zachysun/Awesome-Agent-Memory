@@ -74,9 +74,9 @@ _Ordered by the number of Github stars._
 10. **[TeleMem (under construction)]()**
       [[code](https://github.com/TeleAI-UAGI/TeleMem)]
 
-11. **[Second Me](https://home.second.me/)**
-      [[code](https://github.com/Mindverse/Second-Me)]
-      [[paper](https://arxiv.org/pdf/2503.08102)]
+11. **[MemoryOS](https://baijia.online/memoryos/)**
+      [[code](https://github.com/BAI-LAB/MemoryOS)]
+      [[paper](https://arxiv.org/pdf/2506.06326)]
 #### Closed-Source
 
 1. **[Supermemory](https://supermemory.ai/)**
