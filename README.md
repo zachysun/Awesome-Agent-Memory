@@ -9,22 +9,39 @@
 <details open>
   <summary>🗂️ Table of Contents</summary>
   <ul>
-    <li><a href="#systems">🧩 Systems</a></li>
-    <li><a href="#tutorials">🧑‍🏫 Tutorials</a></li>
-    <li><a href="#surveys">📚 Surveys</a></li>
-    <li><a href="#benchmarks">📏 Benchmarks</a></li>
-    <li><a href="#text-memory">📝 Papers - Text Memory</a></li>
-    <li><a href="#parameter-memory">⚙️ Papers - Parameter Memory</a></li>
-    <li><a href="#multimodal-memory">🎥 Papers - Multimodal Memory</a></li>
-    <li><a href="#memory-retrieval">🔍 Papers - Memory Retrieval</a></li>
-    <li><a href="#articles">📰 Articles</a></li>
-    <li><a href="#workshops">💬 Workshops</a></li>
+    <li><a href="#-systems">🧩 Systems</a></li>
+    <li><a href="#-tutorials">📖 Tutorials</a></li>
+    <li><a href="#-surveys">📚 Surveys</a></li>
+    <li><a href="#-benchmarks">📏 Benchmarks</a></li>
+    <ul>
+        <li><a href="#-plain-text-benchmarks">💬 Plain-Text Benchmarks</a></li>
+        <li><a href="#-multimodal-benchmarks">🎬 Multimodal Benchmarks</a></li>
+    </ul>
+    <li><a href="#-papers---nonparametric-memory">🔤 Papers - Nonparameteric Memory</a></li>
+    <ul>
+        <li><a href="#-text-memory">📝 Text Memory</a></li>
+        <li><a href="#-graph-memory">🌐 Graph Memory</a></li>
+        <li><a href="#-multimodal-memory">🎥 Multimodal Memory</a></li>
+    </ul>
+    <li><a href="#-papers---parameteric-memory">🔢 Papers - Parameteric Memory</a></li>
+    <li><a href="#-papers---memory-for-agent-evolution">📈 Papers - Memory for Agent Evolution</a></li>
+    <li><a href="#-papers---memory-in-cognitive-science">🔬 Papers - Memory in Cognitive Science</a></li>      
+    <li><a href="#-articles">📰 Articles</a></li>
+    <li><a href="#-workshops">👥 Workshops</a></li>
   </ul>
 </details>
 
-<h2 id="systems">🧩 Systems</h2>
+<div align="left">
 
-#### Open-Source
+**If you find this project helpful, please give us a ⭐️ on GitHub for the latest update.**
+
+</div>
+
+---
+
+## 🧩 Systems
+
+### Open-Source
 
 _Ordered by the number of Github stars._
 
@@ -79,7 +96,7 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/BAI-LAB/MemoryOS)]
       [[paper](https://arxiv.org/pdf/2506.06326)]
 
-12. **[EverMemOS (part of EverMind)](https://evermind-ai.com/)**
+11. **[EverMemOS (part of EverMind)](https://evermind-ai.com/)**
     [[code](https://github.com/EverMind-AI/EverMemOS/)]
     [[blog](https://evermind-ai.com/blog/)]
 
@@ -88,7 +105,7 @@ _Ordered by the number of Github stars._
 
     _To be realeased soon. Stay tuned._
 
-#### Closed-Source
+### Closed-Source
 
 1. **[Supermemory](https://supermemory.ai/)**
    [[partial-code](https://github.com/supermemoryai/supermemory)]
@@ -104,7 +121,7 @@ _Ordered by the number of Github stars._
 
 5. **[TwinMind](https://twinmind.com/)**
 
-#### Archival (Inactive)
+### Archival (Inactive)
 
 1. [Memvid](https://www.memvid.com/)
    [[code](https://github.com/Olow304/memvid)]
@@ -113,11 +130,14 @@ _Ordered by the number of Github stars._
 2. [Memary](https://kingjulio8238.github.io/memarydocs/)
    [[code](https://github.com/kingjulio8238/memary)]
 
-<h2 id="tutorials">🧑‍🏫 Tutorials</h2>
+## 📖 Tutorials
 
-TBA
+#### 🗓️ 2025
 
-<h2 id="surveys">📚 Surveys</h2>
+ - **[SIGIR-AP 2025](https://www.sigir-ap.org/sigir-ap-2025/) Tutorial: [Conversational Agents: From RAG to LTM](https://sites.google.com/view/ltm-tutorial)**
+   <!-- [paper] -->
+
+## 📚 Surveys
 
 #### 🗓️ 2025
 
@@ -134,16 +154,20 @@ TBA
 
 - **[Human-inspired Perspectives: A Survey on AI Long-term Memory](https://arxiv.org/abs/2411.00489)**
    
-<h2 id="benchmarks">📏 Benchmarks</h2>
+## 📏 Benchmarks
 
-### 💬 Text-only Benchmarks
+### 💬 Plain-Text Benchmarks
 
 #### 🗓️ 2025
 
-- **[MOOM: Maintenance, Organization and Optimization of Memory in Ultra-Long Role-Playing Dialogues](https://arxiv.org/abs/2509.11860)**
+- **[MOOM: Maintenance, Organization and Optimization of Memory in Ultra-Long Role-Playing Dialogues](https://arxiv.org/abs/2509.11860)** (The ZH-4O Paper)
   [[code](https://github.com/cows21/MOOM-Roleplay-Dialogue)]
   [[data](https://github.com/cows21/MOOM-Roleplay-Dialogue/tree/main/data)]
   
+- **[NoLiMa: Long-Context Evaluation Beyond Literal Matching](https://arxiv.org/abs/2502.05167)**
+    [[code](https://github.com/adobe-research/NoLiMa)]
+    [[data](https://github.com/adobe-research/NoLiMa/tree/main/data)]
+
 - **[HaluMem: Evaluating Hallucinations in Memory Systems of Agents](http://arxiv.org/abs/2511.03506)**
    [[code](https://github.com/MemTensor/HaluMem)]
    [[data](https://huggingface.co/datasets/IAAR-Shanghai/HaluMem)]
@@ -164,12 +188,12 @@ TBA
 
 #### 🗓️ 2024
 
-- **[∞Bench: Extending Long Context Evaluation Beyond 100K Tokens](https://arxiv.org/abs/2402.13718v3)**
-    [[code](https://github.com/OpenBMB/InfiniteBench)]
-
 - **[Evaluating Very Long-Term Conversational Memory of LLM Agents](https://arxiv.org/abs/2402.17753)** (The LoCoMo Paper)
     [[code](https://github.com/snap-research/LoCoMo)]
     [[data](https://github.com/snap-research/locomo/tree/main/data)]
+
+- **[∞Bench: Extending Long Context Evaluation Beyond 100K Tokens](https://arxiv.org/abs/2402.13718v3)**
+    [[code](https://github.com/OpenBMB/InfiniteBench)]
 
 - **[LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding](https://arxiv.org/abs/2308.14508)**
     [[code](https://github.com/THUDM/LongBench/blob/main/LongBench/README.md)]
@@ -210,11 +234,14 @@ TBA
 
 - **[EgoSchema: A Diagnostic Benchmark for Very Long-form Video Language Understanding](https://proceedings.neurips.cc/paper_files/paper/2023/file/90ce332aff156b910b002ce4e6880dec-Paper-Datasets_and_Benchmarks.pdf)** [[code](https://github.com/egoschema/egoschema)]
 
-<h2 id="text-memory">📝 Papers - Text Memory</h2>
 
-### 📖 Plain-Text based Memory
+## 🔤 Papers - Nonparametric Memory
+
+### 📝 Text Memory
 
 #### 🗓️ 2025
+
+- **[O-Mem: Omni Memory System for Personalized, Long Horizon, Self-Evolving Agents](https://arxiv.org/abs/2511.13593)**
 
 - **[LightMem: Lightweight and Efficient Memory-Augmented Generation](https://arxiv.org/abs/2510.18866)**
    [[code](https://github.com/zjunlp/LightMem)]
@@ -236,19 +263,25 @@ TBA
 
 #### 🗓️ 2024
 
-- **[Compress to Impress: Unleashing the Potential of Compressive Memory in Real-World Long-Term Conversations](https://arxiv.org/abs/2402.11975)** [[code](https://github.com/nuochenpku/COMEDY)]
+- **[Compress to Impress: Unleashing the Potential of Compressive Memory in Real-World Long-Term Conversations](https://arxiv.org/abs/2402.11975)**
+    [[code](https://github.com/nuochenpku/COMEDY)]
 
-- **[Agent Workflow Memory](https://arxiv.org/abs/2409.07429)** [[code](https://github.com/zorazrw/agent-workflow-memory)]
+- **[Agent Workflow Memory](https://arxiv.org/abs/2409.07429)**
+    [[code](https://github.com/zorazrw/agent-workflow-memory)]
 
-- **[MemoryBank: Enhancing Large Language Models with Long-Term Memory](https://ojs.aaai.org/index.php/AAAI/article/view/29946)** [[code](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)]
+- **[MemoryBank: Enhancing Large Language Models with Long-Term Memory](https://ojs.aaai.org/index.php/AAAI/article/view/29946)**
+    [[code](https://github.com/zhongwanjun/MemoryBank-SiliconFriend)]
 
 - **[InfLLM: Training-Free Long-Context Extrapolation for LLMs with an Efficient Context Memory](https://arxiv.org/abs/2402.04617)**
+
+- **[Toward Conversational Agents with Context and Time Sensitive Long-term Memory](https://arxiv.org/abs/2406.00057)**
+    [[data](https://github.com/Zyphra/TemporalMemoryDataset)]
 
 #### 🗓️ 2023
 
 - **[RET-LLM: Towards a General Read-Write Memory for Large Language Models](https://arxiv.org/abs/2305.14322)**
 
-### 🧠 Graph based Memory
+### 🌐 Graph Memory
 
 #### 🗓️ 2025
 
@@ -277,9 +310,42 @@ TBA
 - **[AriGraph: Learning Knowledge Graph World Models with Episodic Memory for LLM Agents](https://arxiv.org/abs/2407.04363)**
     [[code](https://github.com/AIRI-Institute/AriGraph)]
 
-<h2 id="parameter-memory">⚙️ Papers - Parameter Memory</h2>
+### 🎥 Multimodal Memory
 
 #### 🗓️ 2025
+
+- **[Infinite Video Understanding](https://www.arxiv.org/abs/2507.09068)** 
+
+- **[Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory](https://arxiv.org/abs/2508.09736)**
+    [[code](https://github.com/bytedance-seed/m3-agent)]
+
+- **[HippoMM: Hippocampal-inspired Multimodal Memory for Long Audiovisual Event Understanding](https://arxiv.org/abs/2504.10739)**
+    [[code](https://github.com/linyueqian/HippoMM)]
+
+- **[Episodic Memory Representation for Long-form Video Understanding](https://arxiv.org/abs/2508.09486)**
+
+- **[Multi-RAG: A Multimodal Retrieval-Augmented Generation System for Adaptive Video Understanding](https://arxiv.org/abs/2505.23990)**
+
+- **[Contextual Experience Replay for Self-Improvement of Language Agents](https://arxiv.org/abs/2506.06698)**
+
+#### 🗓️ 2024
+
+- **[VideoAgent: Long-form Video Understanding with Large Language Model as Agent](https://arxiv.org/abs/2403.10517)**
+    [[code](https://github.com/HKUDS/VideoAgent)]
+
+- **[VideoChat-Flash: Hierarchical Compression for Long-Context Video Modeling](https://arxiv.org/abs/2501.00574)**
+    [[code](https://github.com/OpenGVLab/VideoChat-Flash)]
+
+- **[LongVLM: Efficient Long Video Understanding via Large Language Models](https://arxiv.org/abs/2404.03384)**
+    [[code](https://github.com/ziplab/LongVLM)]
+
+## 🔢 Papers - Parameteric Memory
+
+#### 🗓️ 2025
+
+- **[Continual Learning via Sparse Memory Finetuning](https://arxiv.org/abs/2510.15103)**
+  
+- **[Nested Learning: The Illusion of Deep Learning Architectures](https://openreview.net/forum?id=nbMeRvNb7A)**
 
 - **[R<sup>3</sup>Mem: Bridging Memory Retention and Retrieval via Reversible Compression](https://arxiv.org/abs/2502.15957)**
 
@@ -298,6 +364,8 @@ TBA
 - **[Disentangling Memory and Reasoning Ability in Large Language Models](https://aclanthology.org/2025.acl-long.84/)**
 
 #### 🗓️ 2024
+
+- **[Titans: Learning to Memorize at Test Time](https://arxiv.org/abs/2501.00663)**
 
 - **[InfLLM: Training-Free Long-Context Extrapolation for LLMs with an Efficient Context Memory](https://arxiv.org/abs/2402.04617)**
     [[code](https://github.com/thunlp/InfLLM)]
@@ -327,63 +395,47 @@ TBA
 - **[Efficient Memory Management for Large Language Model Serving with PagedAttention](https://arxiv.org/abs/2309.06180)**
     [[code](https://github.com/vllm-project/vllm)]
 
-<h2 id="multimodal-memory">🎥 Papers - Multimodal Memory</h2>
+## 📈 Papers - Memory for Agent Evolution
+
+### 🧭 Reinforcement Learning & Continual Learning 
 
 #### 🗓️ 2025
 
-- **[Infinite Video Understanding](https://www.arxiv.org/abs/2507.09068)** 
+- **[Memento: Fine-tuning LLM Agents without Fine-tuning LLMs](https://arxiv.org/abs/2508.16153)**
+    [[code](https://github.com/Agent-on-the-Fly/Memento)]
 
-- **[Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory](https://arxiv.org/abs/2508.09736)**
-    [[code](https://github.com/bytedance-seed/m3-agent)]
+- **[General Agentic Memory via Deep Research](https://arxiv.org/abs/2511.18423)**
+    [[code](https://github.com/VectorSpaceLab/general-agentic-memory/)]
 
-- **[HippoMM: Hippocampal-inspired Multimodal Memory for Long Audiovisual Event Understanding](https://arxiv.org/abs/2504.10739)**
-    [[code](https://github.com/linyueqian/HippoMM)]
-
-- **[Episodic Memory Representation for Long-form Video Understanding](https://arxiv.org/abs/2508.09486)**
-
-- **[Multi-RAG: A Multimodal Retrieval-Augmented Generation System for Adaptive Video Understanding](https://arxiv.org/abs/2505.23990)**
-
-- **[Contextual Experience Replay for Self-Improvement of Language Agents](https://arxiv.org/abs/2506.06698)**
-
-#### 🗓️ 2024
-
-- **[VideoAgent: Long-form Video Understanding with Large Language Model as Agent](https://arxiv.org/abs/2403.10517)**
-    [[code](https://github.com/HKUDS/VideoAgent)]
-
-- **[VideoChat-Flash: Hierarchical Compression for Long-Context Video Modeling](https://arxiv.org/abs/2501.00574)**
-    [[code](https://github.com/OpenGVLab/VideoChat-Flash)]
-
-- **[LongVLM: Efficient Long Video Understanding via Large Language Models](https://arxiv.org/abs/2404.03384)**
-    [[code](https://github.com/ziplab/LongVLM)]
-
-<h2 id="memory-retrieval">🔍 Papers - Memory Retrieval</h2>
-
-### 🧭 Reinforcement Learning
-
-#### 🗓️ 2025
-
+- **[AgentEvolver: Towards Efficient Self-Evolving Agent System](https://arxiv.org/abs/2511.10395)**
+    [[code](https://github.com/modelscope/AgentEvolver)]
+   
 - **[FLEX: Continuous Agent Evolution via Forward Learning from Experience](https://arxiv.org/abs/2511.06449)**
    [[code](https://github.com/GenSI-THUAIR/FLEX)]
 
--  **[ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140)**
+- **[ReasoningBank: Scaling Agent Self-Evolving with Reasoning Memory](https://arxiv.org/abs/2509.25140)**
 
--  **[Memento: Fine-tuning LLM Agents without Fine-tuning LLMs](https://arxiv.org/abs/2508.16153)**
-   [[code](https://github.com/Agent-on-the-Fly/Memento)]
-   
--  **[REFRAG: Rethinking RAG based Decoding](https://arxiv.org/abs/2509.01092)**
+- **[Long Term Memory: The Foundation of AI Self-Evolution](https://arxiv.org/abs/2410.15665)**
 
--  **[Seeing, Listening, Remembering, and Reasoning: A Multimodal Agent with Long-Term Memory](https://arxiv.org/abs/2508.09736)**
-     [[code](https://github.com/bytedance-seed/m3-agent)]
+- **[REFRAG: Rethinking RAG based Decoding](https://arxiv.org/abs/2509.01092)**
 
--  **[MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](https://arxiv.org/abs/2507.02259)**
+- **[MemAgent: Reshaping Long-Context LLM with Multi-Conv RL-based Memory Agent](https://arxiv.org/abs/2507.02259)**
 
--  **[MemGen: Weaving Generative Latent Memory for Self-Evolving Agents](https://arxiv.org/abs/2509.24704)**
+- **[MemGen: Weaving Generative Latent Memory for Self-Evolving Agents](https://arxiv.org/abs/2509.24704)**
 
--  **[ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization](https://arxiv.org/abs/2509.13313)**
+- **[ReSum: Unlocking Long-Horizon Search Intelligence via Context Summarization](https://arxiv.org/abs/2509.13313)**
 
 - **[MARC: Memory-Augmented RL Token Compression for Efficient Video Understanding](https://arxiv.org/pdf/2510.07915)**
 
-<h2 id="articles">📰 Articles</h2>
+## 🔬 Papers - Memory in Cognitive Science
+
+#### 🗓️ 2025
+
+- **[How Prediction Error Drives Memory Updating: Role of Locus Coeruleus–Hippocampal Interactions](https://www.cell.com/trends/neurosciences/fulltext/S0166-2236(25)00189-4)**
+
+- **[Towards Large Language Models with Human-Like Episodic Memory](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(25)00179-2)**
+
+## 📰 Articles
 
 #### 🗓️ 2025
 
@@ -399,9 +451,21 @@ TBA
 
 - **[LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)**
 
-<h2 id="workshops">💬 Workshops</h2>
+## 👥 Workshops
 
 #### 🗓️ 2025
 
-- **[Proceedings of the First Workshop on Large Language Model Memorization (L2M2)](https://aclanthology.org/volumes/2025.l2m2-1/)**
+- **[ACL 2025](https://2025.aclweb.org/) Workshop: [The First Workshop on Large Language Model Memorization (L2M2)](https://sites.google.com/view/memorization-workshop)** 
+  [[proceedings](https://aclanthology.org/volumes/2025.l2m2-1/)]
 
+---
+
+<div align="center">
+
+Made with ❤️ by the Ubiquitous AGI team at TeleAI.
+
+</div>
+
+<div align="center" style="margin-top: 10px;">
+    <img src="https://github.com/TeleAI-UAGI/TeleEgo/blob/main/assets/TeleAI.jpg" alt="TeleAI Logo" width="120px" />
+</div>
