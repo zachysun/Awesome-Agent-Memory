@@ -96,11 +96,14 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/BAI-LAB/MemoryOS)]
       [[paper](https://arxiv.org/pdf/2506.06326)]
 
-11. **[EverMemOS (part of EverMind)](https://evermind-ai.com/)**
+12. **[EverMemOS (part of EverMind)](https://evermind-ai.com/)**
     [[code](https://github.com/EverMind-AI/EverMemOS/)]
     [[blog](https://evermind-ai.com/blog/)]
 
-13. **[TeleMem (under construction)]()**
+13. **[LightMem](https://arxiv.org/pdf/2510.18866)**
+    [[code](https://github.com/zjunlp/LightMem)]
+
+14. **[TeleMem (under construction)]()**
     [[code](https://github.com/TeleAI-UAGI/TeleMem)]
 
     _To be realeased soon. Stay tuned._
