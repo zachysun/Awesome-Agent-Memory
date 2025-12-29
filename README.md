@@ -127,7 +127,6 @@ _Ordered by the number of Github stars._
 
 16. **[MemoryBear](https://www.memorybear.ai/)**
       [[code](https://github.com/SuanmoSuanyangTechnology/MemoryBear)]
-      [[reserach](https://www.memorybear.ai/research)]
       [[paper](https://arxiv.org/abs/2512.20651)]
 
 ### Closed-Source
