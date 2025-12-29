@@ -125,10 +125,10 @@ _Ordered by the number of Github stars._
       [[code](https://github.com/vectorize-io/hindsight)]
       [[paper](https://arxiv.org/abs/2512.12818)]
 
-
-16. [Readbear AI](https://www.redbearai.com/memoryScience)
-     [[paper](https://arxiv.org/abs/2512.20651)]
-
+16. **[MemoryBear](https://www.memorybear.ai/)**
+      [[code](https://github.com/SuanmoSuanyangTechnology/MemoryBear)]
+      [[reserach](https://www.memorybear.ai/research)]
+      [[paper](https://arxiv.org/abs/2512.20651)]
 
 ### Closed-Source
 
