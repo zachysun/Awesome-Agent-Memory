@@ -261,8 +261,8 @@ _Ordered by the number of Github stars._
     [[code](https://github.com/THUDM/LongBench/blob/main/LongBench/README.md)]
 
 #### 🗓️ 2023
--  **[Storybench: A multifaceted benchmark for continuous story visualization ](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f63f5fbed1a4ef08c857c5f377b5d33a-Abstract-Datasets_and_Benchmarks.html)**
-   [[code](https://github.com/google/storybench)]
+- **[StoryBench: A Multifaceted Benchmark for Continuous Story Visualization](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f63f5fbed1a4ef08c857c5f377b5d33a-Abstract-Datasets_and_Benchmarks.html)**
+    [[code](https://github.com/google/storybench)]
 
 ### 🎬 Multimodal Benchmarks
 
