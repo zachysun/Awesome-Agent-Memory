@@ -232,21 +232,21 @@ _Ordered by the number of Github stars._
     [[data](https://github.com/adobe-research/NoLiMa/tree/main/data)]
 
 - **[MemoryBench: A Benchmark for Memory and Continual Learning in LLM Systems](https://arxiv.org/abs/2510.17281)**
-   [[code](https://github.com/LittleDinoC/MemoryBench)]
-   [[data](https://huggingface.co/datasets/THUIR/MemoryBench)]
+    [[code](https://github.com/LittleDinoC/MemoryBench)]
+    [[data](https://huggingface.co/datasets/THUIR/MemoryBench)]
 
 - **[HaluMem: Evaluating Hallucinations in Memory Systems of Agents](http://arxiv.org/abs/2511.03506)**
-   [[code](https://github.com/MemTensor/HaluMem)]
-   [[data](https://huggingface.co/datasets/IAAR-Shanghai/HaluMem)]
+    [[code](https://github.com/MemTensor/HaluMem)]
+    [[data](https://huggingface.co/datasets/IAAR-Shanghai/HaluMem)]
 
 - **[LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks](https://arxiv.org/abs/2412.15204)**
-   [[code](https://github.com/THUDM/LongBench)]
+    [[code](https://github.com/THUDM/LongBench)]
 
 - **[Minerva: A Programmable Memory Test Benchmark for Language Models](https://arxiv.org/abs/2502.03358)**
     [[code](https://github.com/microsoft/minerva_memory_test)]
 
 - **[MemBench: Towards More Comprehensive Evaluation on the Memory of LLM-based Agents](https://arxiv.org/abs/2506.21605)**
-   [[code](https://github.com/import-myself/Membench)]
+    [[code](https://github.com/import-myself/Membench)]
 
 - [Evo-Memory: Benchmarking LLM Agent Test-time Learning with Self-Evolving Memory](https://arxiv.org/abs/2511.20857)
 
@@ -263,6 +263,9 @@ _Ordered by the number of Github stars._
 
 - **[∞Bench: Extending Long Context Evaluation Beyond 100K Tokens](https://arxiv.org/abs/2402.13718v3)**
     [[code](https://github.com/OpenBMB/InfiniteBench)]
+
+- **[LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding](https://arxiv.org/abs/2308.14508)**
+    [[code](https://github.com/THUDM/LongBench)]
 
 #### 🗓️ 2023
 
