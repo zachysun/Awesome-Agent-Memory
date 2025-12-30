@@ -307,6 +307,11 @@ _Ordered by the number of Github stars._
 - **[ARE: Scaling Up Agent Environments and Evaluations](https://arxiv.org/abs/2509.17158)** (The Gaia2 Paper)
     [[code](https://github.com/facebookresearch/meta-agents-research-environments)]
 
+#### 🗓️ 2024
+
+- **[AppWorld: A Controllable World of Apps and People for Benchmarking Interactive Coding Agents](https://arxiv.org/abs/2407.18901)**
+    [[code](https://github.com/StonyBrookNLP/appworld)]
+
 ---
 
 ## 🔤 Papers - Nonparametric Memory
