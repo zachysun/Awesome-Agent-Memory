@@ -413,6 +413,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2025
 
+- **[StoryMem: Multi-shot Long Video Storytelling with Memory](https://arxiv.org/abs/2512.19539)**
+    [[code](https://github.com/Kevin-thu/StoryMem)]
+  
 - **[MemFlow: Flowing Adaptive Memory for Consistent and Efficient Long Video Narratives](https://arxiv.org/abs/2512.14699)**
     [[code](https://github.com/KlingTeam/MemFlow)]
 
