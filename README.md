@@ -240,7 +240,7 @@ _Ordered by the number of Github stars._
    [[data](https://huggingface.co/datasets/IAAR-Shanghai/HaluMem)]
 
 - **[LongBench v2: Towards Deeper Understanding and Reasoning on Realistic Long-context Multitasks](https://arxiv.org/abs/2412.15204)**
-   [[data](https://github.com/THUDM/LongBench)]
+   [[code](https://github.com/THUDM/LongBench)]
 
 - **[Minerva: A Programmable Memory Test Benchmark for Language Models](https://arxiv.org/abs/2502.03358)**
     [[code](https://github.com/microsoft/minerva_memory_test)]
@@ -263,9 +263,6 @@ _Ordered by the number of Github stars._
 
 - **[∞Bench: Extending Long Context Evaluation Beyond 100K Tokens](https://arxiv.org/abs/2402.13718v3)**
     [[code](https://github.com/OpenBMB/InfiniteBench)]
-
-- **[LongBench: A Bilingual, Multitask Benchmark for Long Context Understanding](https://arxiv.org/abs/2308.14508)**
-    [[code](https://github.com/THUDM/LongBench/blob/main/LongBench/README.md)]
 
 #### 🗓️ 2023
 
