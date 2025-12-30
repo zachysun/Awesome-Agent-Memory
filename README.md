@@ -20,6 +20,7 @@
     <ul>
         <li><a href="#-plain-text-benchmarks">💬 Plain-Text Benchmarks</a></li>
         <li><a href="#-multimodal-benchmarks">🎬 Multimodal Benchmarks</a></li>
+        <li><a href="#-simulation-environments">🎮 Simulation Environments</a></li>
     </ul>
     <li><a href="#-papers---nonparametric-memory">🔤 Papers - Nonparameteric Memory</a></li>
     <ul>
@@ -157,6 +158,8 @@ _Ordered by the number of Github stars._
 2. [Memary](https://kingjulio8238.github.io/memarydocs/)
    [[code](https://github.com/kingjulio8238/memary)]
 
+---
+
 ## 📖 Tutorials
 
 #### 🗓️ 2025
@@ -169,6 +172,8 @@ _Ordered by the number of Github stars._
      [[Part-A](https://www.dailydoseofds.com/ai-agents-crash-course-part-15-with-implementation/)]
      [[Part-B](https://www.dailydoseofds.com/ai-agents-crash-course-part-16-with-implementation/)]
      [[Part-C](https://www.dailydoseofds.com/ai-agents-crash-course-part-17-with-implementation/)]
+
+---
 
 ## 📚 Surveys
 
@@ -192,6 +197,8 @@ _Ordered by the number of Github stars._
 
 - **[A Survey on the Memory Mechanism of Large Language Model based Agents](https://arxiv.org/abs/2404.13501)**
     [[code](https://github.com/nuster1128/LLM_Agent_Memory_Survey)]
+
+---
 
 ## 📏 Benchmarks
 
@@ -261,6 +268,7 @@ _Ordered by the number of Github stars._
     [[code](https://github.com/THUDM/LongBench/blob/main/LongBench/README.md)]
 
 #### 🗓️ 2023
+
 - **[StoryBench: A Multifaceted Benchmark for Continuous Story Visualization](https://proceedings.neurips.cc/paper_files/paper/2023/hash/f63f5fbed1a4ef08c857c5f377b5d33a-Abstract-Datasets_and_Benchmarks.html)**
     [[code](https://github.com/google/storybench)]
 
@@ -294,6 +302,15 @@ _Ordered by the number of Github stars._
     [[code](https://github.com/egoschema/egoschema)]
 
 - [LvBench: A Benchmark for Long-form Video Understanding with Versatile Multi-modal Question Answering](https://arxiv.org/abs/2312.04817)
+
+### 🎮 Simulation Environments
+
+#### 🗓️ 2025
+
+- **[ARE: Scaling Up Agent Environments and Evaluations](https://arxiv.org/abs/2509.17158)** (The Gaia2 Paper)
+    [[code](https://github.com/facebookresearch/meta-agents-research-environments)]
+
+---
 
 ## 🔤 Papers - Nonparametric Memory
 
@@ -434,7 +451,6 @@ _Ordered by the number of Github stars._
 - [Mixture of Contexts for Long Video Generation](http://arxiv.org/abs/2508.21058)
 
 - [Context as Memory: Scene-Consistent Interactive Long Video Generation with Memory Retrieval](http://arxiv.org/abs/2506.03141)
-
 
 ## 🔢 Papers - Parameteric Memory
 
@@ -580,6 +596,8 @@ _Ordered by the number of Github stars._
 
 - [Towards Large Language Models with Human-Like Episodic Memory](https://www.cell.com/trends/cognitive-sciences/abstract/S1364-6613(25)00179-2)
 
+---
+
 ## 📰 Articles
 
 #### 🗓️ 2025
@@ -595,6 +613,8 @@ _Ordered by the number of Github stars._
 #### 🗓️ 2023
 
 - [LLM Powered Autonomous Agents](https://lilianweng.github.io/posts/2023-06-23-agent/)
+
+---
 
 ## 👥 Workshops
 
