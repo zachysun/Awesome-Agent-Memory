@@ -62,7 +62,7 @@ _Ordered by the number of Github stars._
 
     - **[TeleMem: A Drop-in Replacement for Mem0](https://github.com/TeleAI-UAGI/TeleMem)**
         [[code](https://github.com/TeleAI-UAGI/TeleMem)]
-        <mark>`import vendor.TeleMem as mem0`</mark>
+        <mark>`import telemem as mem0`</mark>
 
         🆕 _Newly released. Rising star. Tech-Report will be on arXiv soon. Stay tuned!_ 😜
 
