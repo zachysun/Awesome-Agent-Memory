@@ -521,6 +521,10 @@ _Ordered by the number of Github stars._
 
 ### 🧭 Reinforcement Learning & Continual Learning 
 
+#### 🗓️ 2026
+
+- [Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents](https://arxiv.org/abs/2601.01885)
+
 #### 🗓️ 2025
 
 - **[ML-Master: Towards AI-for-AI via Integration of Exploration and Reasoning](https://arxiv.org/abs/2506.16499)**
