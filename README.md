@@ -441,6 +441,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2025
 
+- **[Yume-1.5: A Text-Controlled Interactive World Generation Model](https://arxiv.org/abs/2512.22096)**
+    [[code](https://github.com/stdstu12/YUME)]
+
 - **[StoryMem: Multi-shot Long Video Storytelling with Memory](https://arxiv.org/abs/2512.19539)**
     [[code](https://github.com/Kevin-thu/StoryMem)]
   
