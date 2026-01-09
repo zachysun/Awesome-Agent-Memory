@@ -10,8 +10,14 @@
    👀 <b>Open-source</b> resources (e.g. papers with reproducible code publicly available on Github) are marked in bold font and ranked higher.
 </p>
 
+--- 
+
+- 📰 [[Business Insider(2026-01-08 )] AI still needs a breakthrough in one key area to reach superintelligence, according to those who build it](https://www.businessinsider.com/superintelligent-ai-memory-sam-altman-2026-1) 
+
+---
+
 <details open>
-  <summary>🗂️ Table of Contents</summary>
+  <summary>🗂️ <b>Table of Contents</b> </summary>
   <ul>
     <li><a href="#-products">💿 Products</a></li>
     <li><a href="#-tutorials">📖 Tutorials</a></li>
