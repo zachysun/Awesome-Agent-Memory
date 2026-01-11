@@ -12,7 +12,7 @@
 
 --- 
 
-- 📰 [[Business Insider(2026-01-08 )] AI still needs a breakthrough in one key area to reach superintelligence, according to those who build it](https://www.businessinsider.com/superintelligent-ai-memory-sam-altman-2026-1) 
+- 📰 [[Business Insider (2026-01-08 )] AI still needs a breakthrough in one key area to reach superintelligence, according to those who build it](https://www.businessinsider.com/superintelligent-ai-memory-sam-altman-2026-1) 
 
 ---
 
