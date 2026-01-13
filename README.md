@@ -471,6 +471,11 @@ _Ordered by the number of Github stars._
 
 ## 🔢 Papers - Parameteric Memory
 
+#### 🗓️ 2026
+
+- **[Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://github.com/deepseek-ai/Engram/blob/main/Engram_paper.pdf)**
+    [[code](https://github.com/deepseek-ai/Engram/)]
+
 #### 🗓️ 2025
 
 - **[MLP Memory: Language Modeling with Retriever-pretrained External Memory](https://arxiv.org/abs/2508.01832)**
