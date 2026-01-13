@@ -66,11 +66,13 @@ _Ordered by the number of Github stars._
      [[paper](https://arxiv.org/abs/2504.19413)]
      [[blog](https://get.mem.ai/blog)]
 
-    - **[TeleMem: A Drop-in Replacement for Mem0](https://github.com/TeleAI-UAGI/TeleMem)**
+    - **[TeleMem: A High-Performance Drop-in Replacement for Mem0](https://github.com/TeleAI-UAGI/TeleMem)**
         [[code](https://github.com/TeleAI-UAGI/TeleMem)]
+        [[paper](https://arxiv.org/abs/2601.06037)]
+      
         <mark>`import telemem as mem0`</mark>
 
-        🆕 _Newly released. Rising star. Tech-Report will be on arXiv soon. Stay tuned!_ 😜
+        🆕 _Newly released. Rising star. Stay tuned!_ 😜
 
 2. **[Zep (powered by Graphiti)](https://www.getzep.com/)**
      [[code](https://github.com/getzep/graphiti)]
