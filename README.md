@@ -538,6 +538,8 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- [Memento 2: Learning by Stateful Reflective Memory](https://arxiv.org/abs/2512.22716)
+
 - [Agentic Memory: Learning Unified Long-Term and Short-Term Memory Management for Large Language Model Agents](https://arxiv.org/abs/2601.01885)
 
 #### 🗓️ 2025
