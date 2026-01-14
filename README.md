@@ -614,6 +614,10 @@ _Ordered by the number of Github stars._
 
 ## 🔬 Papers - Memory in Cognitive Science
 
+#### 🗓️ 2026
+
+- [Distinct Neuronal Populations in the Human Brain Combine Content and Context](https://www.nature.com/articles/s41586-025-09910-2)
+
 #### 🗓️ 2025
 
 - [Neural Population Activity for Memory: Properties, Computations, and Codes](https://www.cell.com/neuron/fulltext/S0896-6273(25)00854-2)
