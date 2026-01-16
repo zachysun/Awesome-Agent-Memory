@@ -88,13 +88,13 @@ _Ordered by the number of Github stars._
      [[code](https://github.com/mindverse/Second-Me)]
      [[paper](https://arxiv.org/abs/2503.08102)]
 
-5. **[Congee](https://www.cognee.ai/)**
+5. **[Claude-Mem (A Plug-in for Claude-Code)](https://claude-mem.ai/)**
+     [[code](https://github.com/thedotmack/claude-mem)]
+
+6. **[Congee](https://www.cognee.ai/)**
      [[code](https://github.com/topoteretes/cognee)]
      [[paper](https://arxiv.org/abs/2505.24478)]
      [[blog](https://www.cognee.ai/blog)]
-
-6. **[Claude-Mem (A Plug-in for Claude-Code)](https://claude-mem.ai/)**
-     [[code](https://github.com/thedotmack/claude-mem)]
 
 7. **[MIRIX](https://mirix.io/)**
      [[code](https://github.com/Mirix-AI/MIRIX)]
