@@ -527,6 +527,8 @@ _Ordered by the number of Github stars._
 
 - [WISE: Rethinking the Knowledge Memory for Lifelong Model Editing of Large Language Models](https://arxiv.org/abs/2405.14768/)
 
+- [Ultra-Sparse Memory Network](https://arxiv.org/abs/2411.12364)
+
 #### 🗓️ 2023
 
 - **[Augmenting Language Models with Long-Term Memory](https://arxiv.org/abs/2306.07174)**
