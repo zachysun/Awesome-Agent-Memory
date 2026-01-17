@@ -184,6 +184,10 @@ _Ordered by the number of Github stars._
 
 ## 📚 Surveys
 
+#### 🗓️ 2026
+
+- [The AI Hippocampus: How Far are We From Human Memory?](https://arxiv.org/abs/2601.09113)
+
 #### 🗓️ 2025
 
 - **[Memory in the Age of AI Agents](https://arxiv.org/abs/2512.13564)**
