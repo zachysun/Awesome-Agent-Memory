@@ -96,19 +96,19 @@ _Ordered by the number of Github stars._
      [[paper](https://arxiv.org/abs/2505.24478)]
      [[blog](https://www.cognee.ai/blog)]
 
-7. **[MIRIX](https://mirix.io/)**
-     [[code](https://github.com/Mirix-AI/MIRIX)]
-     [[paper](https://arxiv.org/abs/2507.07957)]
-     [[blog](https://mirix.io/blog)]
+7. **[MemU](https://memu.pro/)**
+     [[code](https://github.com/NevaMind-AI/memU)]
+     [[blog](https://memu.pro/blog)]
 
 8. **[MemOS](https://memos.openmem.net/)** 
      [[code](https://github.com/MemTensor/MemOS)]
      [[paper](https://arxiv.org/abs/2507.03724)]
      [[blog](https://supermemory.ai/blog)]
      
-9. **[MemU](https://memu.pro/)**
-     [[code](https://github.com/NevaMind-AI/memU)]
-     [[blog](https://memu.pro/blog)]
+9. **[MIRIX](https://mirix.io/)**
+     [[code](https://github.com/Mirix-AI/MIRIX)]
+     [[paper](https://arxiv.org/abs/2507.07957)]
+     [[blog](https://mirix.io/blog)]
 
 10. **[OpenMemory](https://openmemory.cavira.app/)**
       [[code](https://github.com/caviraoss/openmemory)]
