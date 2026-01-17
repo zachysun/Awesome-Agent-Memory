@@ -100,22 +100,22 @@ _Ordered by the number of Github stars._
      [[code](https://github.com/NevaMind-AI/memU)]
      [[blog](https://memu.pro/blog)]
 
-8. **[MemOS](https://memos.openmem.net/)** 
+8. **[MemMachine](https://memmachine.ai/)**
+      [[code](https://github.com/MemMachine/MemMachine)]
+      [[blog](https://memmachine.ai/blog/)]
+
+9. **[MemOS](https://memos.openmem.net/)** 
      [[code](https://github.com/MemTensor/MemOS)]
      [[paper](https://arxiv.org/abs/2507.03724)]
      [[blog](https://supermemory.ai/blog)]
      
-9. **[MIRIX](https://mirix.io/)**
+10. **[MIRIX](https://mirix.io/)**
      [[code](https://github.com/Mirix-AI/MIRIX)]
      [[paper](https://arxiv.org/abs/2507.07957)]
      [[blog](https://mirix.io/blog)]
 
-10. **[OpenMemory](https://openmemory.cavira.app/)**
+11. **[OpenMemory](https://openmemory.cavira.app/)**
       [[code](https://github.com/caviraoss/openmemory)]
-
-11. **[MemMachine](https://memmachine.ai/)**
-      [[code](https://github.com/MemMachine/MemMachine)]
-      [[blog](https://memmachine.ai/blog/)]
 
 12. **[Memobase](https://memobase.io/)**
      [[code](https://github.com/memodb-io/memobase)]
