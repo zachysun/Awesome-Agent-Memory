@@ -91,49 +91,53 @@ _Ordered by the number of Github stars._
 5. **[Claude-Mem (A Plug-in for Claude-Code)](https://claude-mem.ai/)**
      [[code](https://github.com/thedotmack/claude-mem)]
 
-6. **[Congee](https://www.cognee.ai/)**
+6. **[Memov](https://github.com/memovai/memov)**
+     [[code](https://github.com/memovai/memov)]
+     _Git-based, traceable memory layer for Claude Code._
+
+7. **[Congee](https://www.cognee.ai/)**
      [[code](https://github.com/topoteretes/cognee)]
      [[paper](https://arxiv.org/abs/2505.24478)]
      [[blog](https://www.cognee.ai/blog)]
 
-7. **[MemU](https://memu.pro/)**
+8. **[MemU](https://memu.pro/)**
      [[code](https://github.com/NevaMind-AI/memU)]
      [[blog](https://memu.pro/blog)]
 
-8. **[MemMachine](https://memmachine.ai/)**
+9. **[MemMachine](https://memmachine.ai/)**
       [[code](https://github.com/MemMachine/MemMachine)]
       [[blog](https://memmachine.ai/blog/)]
 
-9. **[MemOS](https://memos.openmem.net/)** 
+10. **[MemOS](https://memos.openmem.net/)** 
      [[code](https://github.com/MemTensor/MemOS)]
      [[paper](https://arxiv.org/abs/2507.03724)]
      [[blog](https://supermemory.ai/blog)]
      
-10. **[MIRIX](https://mirix.io/)**
+11. **[MIRIX](https://mirix.io/)**
      [[code](https://github.com/Mirix-AI/MIRIX)]
      [[paper](https://arxiv.org/abs/2507.07957)]
      [[blog](https://mirix.io/blog)]
 
-11. **[OpenMemory](https://openmemory.cavira.app/)**
+12. **[OpenMemory](https://openmemory.cavira.app/)**
       [[code](https://github.com/caviraoss/openmemory)]
 
-12. **[Memobase](https://memobase.io/)**
+13. **[Memobase](https://memobase.io/)**
      [[code](https://github.com/memodb-io/memobase)]
      [[blog](https://www.memobase.io/blog)]
 
-13. **[EverMemOS (part of EverMind)](https://evermind-ai.com/)**
+14. **[EverMemOS (part of EverMind)](https://evermind-ai.com/)**
       [[code](https://github.com/EverMind-AI/EverMemOS/)]
       [[blog](https://evermind-ai.com/blog/)]
 
-14. **[LangMem (part of LangChain-LangGraph)](https://langchain-ai.github.io/langmem/)**
+15. **[LangMem (part of LangChain-LangGraph)](https://langchain-ai.github.io/langmem/)**
       [[code](https://github.com/langchain-ai/langmem)]
       [[blog](https://blog.langchain.com/)]
 
-15. **[Hindsight](https://hindsight.vectorize.io/)**
+16. **[Hindsight](https://hindsight.vectorize.io/)**
       [[code](https://github.com/vectorize-io/hindsight)]
       [[paper](https://arxiv.org/abs/2512.12818)]
 
-16. **[MemoryBear](https://www.memorybear.ai/)**
+17. **[MemoryBear](https://www.memorybear.ai/)**
       [[code](https://github.com/SuanmoSuanyangTechnology/MemoryBear)]
       [[paper](https://arxiv.org/abs/2512.20651)]
 
