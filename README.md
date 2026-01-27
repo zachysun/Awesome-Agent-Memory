@@ -186,6 +186,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[Toward Efficient Agents: Memory, Tool learning, and Planning](https://arxiv.org/abs/2601.14192)**
+    [[code](https://github.com/yxf203/Awesome-Efficient-Agents)]
+
 - [The AI Hippocampus: How Far are We From Human Memory?](https://arxiv.org/abs/2601.09113)
 
 - [From Storage to Experience: A Survey on the Evolution of LLM Agent Memory Mechanisms](https://www.preprints.org/manuscript/202601.0618)
