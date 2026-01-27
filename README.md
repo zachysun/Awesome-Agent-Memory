@@ -84,12 +84,12 @@ _Ordered by the number of Github stars._
      [[research](https://www.letta.com/research)]
      [[blog](https://www.letta.com/blog)]
 
-4. **[Second Me](https://home.second.me/)**
+4. **[Claude-Mem (A Plug-in for Claude-Code)](https://claude-mem.ai/)**
+     [![Star](https://img.shields.io/github/stars/thedotmack/claude-mem.svg?style=social&label=Star)](https://github.com/thedotmack/claude-mem)
+
+5. **[Second Me](https://home.second.me/)**
      [![Star](https://img.shields.io/github/stars/mindverse/Second-Me.svg?style=social&label=Star)](https://github.com/mindverse/Second-Me)
      [[paper](https://arxiv.org/abs/2503.08102)]
-
-5. **[Claude-Mem (A Plug-in for Claude-Code)](https://claude-mem.ai/)**
-     [![Star](https://img.shields.io/github/stars/thedotmack/claude-mem.svg?style=social&label=Star)](https://github.com/thedotmack/claude-mem)
 
 6. **[Congee](https://www.cognee.ai/)**
      [![Star](https://img.shields.io/github/stars/topoteretes/cognee.svg?style=social&label=Star)](https://github.com/topoteretes/cognee)
