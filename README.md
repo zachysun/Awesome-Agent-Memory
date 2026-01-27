@@ -85,68 +85,55 @@ _Ordered by the number of Github stars._
      [[blog](https://www.letta.com/blog)]
 
 4. **[Second Me](https://home.second.me/)**
-     [[code](https://github.com/)]
      [![Star](https://img.shields.io/github/stars/mindverse/Second-Me.svg?style=social&label=Star)](https://github.com/mindverse/Second-Me)
      [[paper](https://arxiv.org/abs/2503.08102)]
 
 5. **[Claude-Mem (A Plug-in for Claude-Code)](https://claude-mem.ai/)**
-     [[code](https://github.com/thedotmack/claude-mem)]
      [![Star](https://img.shields.io/github/stars/thedotmack/claude-mem.svg?style=social&label=Star)](https://github.com/thedotmack/claude-mem)
 
 6. **[Congee](https://www.cognee.ai/)**
-     [[code](https://github.com/topoteretes/cognee)]
      [![Star](https://img.shields.io/github/stars/topoteretes/cognee.svg?style=social&label=Star)](https://github.com/topoteretes/cognee)
      [[paper](https://arxiv.org/abs/2505.24478)]
      [[blog](https://www.cognee.ai/blog)]
 
 7. **[MemU](https://memu.pro/)**
-     [[code](https://github.com/NevaMind-AI/memU)]
      [![Star](https://img.shields.io/github/stars/NevaMind-AI/memU.svg?style=social&label=Star)](https://github.com/NevaMind-AI/memU)
      [[blog](https://memu.pro/blog)]
 
-8. **[MemMachine](https://memmachine.ai/)**
-     [[code](https://github.com/MemMachine/MemMachine)]
-     [![Star](https://img.shields.io/github/stars/MemMachine/MemMachine.svg?style=social&label=Star)](https://github.com/MemMachine/MemMachine)
-     [[blog](https://memmachine.ai/blog/)]
-
-9. **[MemOS](https://memos.openmem.net/)** 
-     [[code](https://github.com/MemTensor/MemOS)]
+8. **[MemOS](https://memos.openmem.net/)** 
      [![Star](https://img.shields.io/github/stars/MemTensor/MemOS.svg?style=social&label=Star)](https://github.com/MemTensor/MemOS)
      [[paper](https://arxiv.org/abs/2507.03724)]
      [[blog](https://supermemory.ai/blog)]
      
+9. **[MemMachine](https://memmachine.ai/)**
+     [![Star](https://img.shields.io/github/stars/MemMachine/MemMachine.svg?style=social&label=Star)](https://github.com/MemMachine/MemMachine)
+     [[blog](https://memmachine.ai/blog/)]
+
 10. **[MIRIX](https://mirix.io/)**
-     [[code](https://github.com/Mirix-AI/MIRIX)]
      [![Star](https://img.shields.io/github/stars/Mirix-AI/MIRIX.svg?style=social&label=Star)](https://github.com/Mirix-AI/MIRIX)
      [[paper](https://arxiv.org/abs/2507.07957)]
      [[blog](https://mirix.io/blog)]
 
 11. **[OpenMemory](https://openmemory.cavira.app/)**
-     [[code](https://github.com/caviraoss/openmemory)]
      [![Star](https://img.shields.io/github/stars/caviraoss/openmemory.svg?style=social&label=Star)](https://github.com/caviraoss/openmemory)
 
 12. **[Memobase](https://memobase.io/)**
-      [[code](https://github.com/memodb-io/memobase)]
       [![Star](https://img.shields.io/github/stars/memodb-io/memobase.svg?style=social&label=Star)](https://github.com/memodb-io/memobase)
       [[blog](https://www.memobase.io/blog)]
 
 13. **[EverMemOS (part of EverMind)](https://evermind-ai.com/)**
-      [[code](https://github.com/EverMind-AI/EverMemOS)]
       [![Star](https://img.shields.io/github/stars/EverMind-AI/EverMemOS.svg?style=social&label=Star)](https://github.com/EverMind-AI/EverMemOS)
       [[blog](https://evermind-ai.com/blog/)]
 
 14. **[LangMem (part of LangChain-LangGraph)](https://langchain-ai.github.io/langmem/)**
-      [[code](https://github.com/langchain-ai/langmem)]
       [![Star](https://img.shields.io/github/stars/langchain-ai/langmem.svg?style=social&label=Star)](https://github.com/langchain-ai/langmem)
       [[blog](https://blog.langchain.com/)]
 
 15. **[Hindsight](https://hindsight.vectorize.io/)**
-      [[code](https://github.com/vectorize-io/hindsight)]
       [![Star](https://img.shields.io/github/stars/vectorize-io/hindsight.svg?style=social&label=Star)](https://github.com/vectorize-io/hindsight)
       [[paper](https://arxiv.org/abs/2512.12818)]
 
 16. **[MemoryBear](https://www.memorybear.ai/)**
-      [[code](https://github.com/SuanmoSuanyangTechnology/MemoryBear)]
       [![Star](https://img.shields.io/github/stars/SuanmoSuanyangTechnology/MemoryBear.svg?style=social&label=Star)](https://github.com/SuanmoSuanyangTechnology/MemoryBear)
       [[paper](https://arxiv.org/abs/2512.20651)]
 
