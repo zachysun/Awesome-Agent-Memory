@@ -51,6 +51,8 @@
     
 **If you find this project helpful, please give us a ⭐️ on GitHub for the latest update.**
 
+_🤝 Contributions welcome! Feel free to open an issue or submit a pull request to add papers, fix links, or improve categorization._
+
 </div>
 
 ---
