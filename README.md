@@ -61,8 +61,8 @@
 
 _Ordered by the number of Github stars._
 
-1. **[Mem0](https://mem0.ai/)**
-     [![Star](https://img.shields.io/github/stars/mem0ai/mem0.svg?style=social&label=Star)](https://github.com/mem0ai/mem0)
+1. **[Mem0](https://mem0.ai/)** ![Star](https://img.shields.io/github/stars/mem0ai/mem0.svg?style=social&label=Star)
+     [[code]](https://github.com/mem0ai/mem0)
      [[paper](https://arxiv.org/abs/2504.19413)]
      [[blog](https://get.mem.ai/blog)]
 
@@ -73,68 +73,68 @@ _Ordered by the number of Github stars._
 
         🆕 _Newly released. Rising star. Stay tuned!_ 😜
 
-2. **[Zep (powered by Graphiti)](https://www.getzep.com/)**
-     [![Star](https://img.shields.io/github/stars/getzep/graphiti.svg?style=social&label=Star)](https://github.com/getzep/graphiti)
+2. **[Zep (powered by Graphiti)](https://www.getzep.com/)** ![Star](https://img.shields.io/github/stars/getzep/graphiti.svg?style=social&label=Star)
+     [[code]](https://github.com/getzep/graphiti)
      [[paper](https://arxiv.org/abs/2501.13956)]
      [[blog](https://blog.getzep.com/)]
 
-3. **[Letta (formerly MemGPT)](https://www.letta.com/)**
-     [![Star](https://img.shields.io/github/stars/letta-ai/letta.svg?style=social&label=Star)](https://github.com/letta-ai/letta)
+3. **[Letta (formerly MemGPT)](https://www.letta.com/)** ![Star](https://img.shields.io/github/stars/letta-ai/letta.svg?style=social&label=Star)
+     [[code]](https://github.com/letta-ai/letta)
      [[paper](https://arxiv.org/abs/2310.08560)]
      [[research](https://www.letta.com/research)]
      [[blog](https://www.letta.com/blog)]
 
-4. **[Claude-Mem (A Plug-in for Claude-Code)](https://claude-mem.ai/)**
-     [![Star](https://img.shields.io/github/stars/thedotmack/claude-mem.svg?style=social&label=Star)](https://github.com/thedotmack/claude-mem)
+4. **[Claude-Mem (A Plug-in for Claude-Code)](https://claude-mem.ai/)** ![Star](https://img.shields.io/github/stars/thedotmack/claude-mem.svg?style=social&label=Star)
+     [[code]](https://github.com/thedotmack/claude-mem)
 
-5. **[Second Me](https://home.second.me/)**
-     [![Star](https://img.shields.io/github/stars/mindverse/Second-Me.svg?style=social&label=Star)](https://github.com/mindverse/Second-Me)
+5. **[Second Me](https://home.second.me/)** ![Star](https://img.shields.io/github/stars/mindverse/Second-Me.svg?style=social&label=Star)
+     [[code]](https://github.com/mindverse/Second-Me)
      [[paper](https://arxiv.org/abs/2503.08102)]
 
-6. **[Congee](https://www.cognee.ai/)**
-     [![Star](https://img.shields.io/github/stars/topoteretes/cognee.svg?style=social&label=Star)](https://github.com/topoteretes/cognee)
+6. **[Congee](https://www.cognee.ai/)** ![Star](https://img.shields.io/github/stars/topoteretes/cognee.svg?style=social&label=Star)
+     [[code]](https://github.com/topoteretes/cognee)
      [[paper](https://arxiv.org/abs/2505.24478)]
      [[blog](https://www.cognee.ai/blog)]
 
-7. **[MemU](https://memu.pro/)**
-     [![Star](https://img.shields.io/github/stars/NevaMind-AI/memU.svg?style=social&label=Star)](https://github.com/NevaMind-AI/memU)
+7. **[MemU](https://memu.pro/)** ![Star](https://img.shields.io/github/stars/NevaMind-AI/memU.svg?style=social&label=Star)
+     [[code]](https://github.com/NevaMind-AI/memU)
      [[blog](https://memu.pro/blog)]
 
-8. **[MemOS](https://memos.openmem.net/)** 
-     [![Star](https://img.shields.io/github/stars/MemTensor/MemOS.svg?style=social&label=Star)](https://github.com/MemTensor/MemOS)
+8. **[MemOS](https://memos.openmem.net/)** ![Star](https://img.shields.io/github/stars/MemTensor/MemOS.svg?style=social&label=Star)
+     [[code]](https://github.com/MemTensor/MemOS)
      [[paper](https://arxiv.org/abs/2507.03724)]
      [[blog](https://supermemory.ai/blog)]
      
-9. **[MemMachine](https://memmachine.ai/)**
-     [![Star](https://img.shields.io/github/stars/MemMachine/MemMachine.svg?style=social&label=Star)](https://github.com/MemMachine/MemMachine)
+9. **[MemMachine](https://memmachine.ai/)** ![Star](https://img.shields.io/github/stars/MemMachine/MemMachine.svg?style=social&label=Star)
+     [[code]](https://github.com/MemMachine/MemMachine)
      [[blog](https://memmachine.ai/blog/)]
 
-10. **[MIRIX](https://mirix.io/)**
-     [![Star](https://img.shields.io/github/stars/Mirix-AI/MIRIX.svg?style=social&label=Star)](https://github.com/Mirix-AI/MIRIX)
+10. **[MIRIX](https://mirix.io/)** ![Star](https://img.shields.io/github/stars/Mirix-AI/MIRIX.svg?style=social&label=Star)
+     [[code]](https://github.com/Mirix-AI/MIRIX)
      [[paper](https://arxiv.org/abs/2507.07957)]
      [[blog](https://mirix.io/blog)]
 
-11. **[OpenMemory](https://openmemory.cavira.app/)**
-     [![Star](https://img.shields.io/github/stars/caviraoss/openmemory.svg?style=social&label=Star)](https://github.com/caviraoss/openmemory)
+11. **[OpenMemory](https://openmemory.cavira.app/)** ![Star](https://img.shields.io/github/stars/caviraoss/openmemory.svg?style=social&label=Star)
+     [[code]](https://github.com/caviraoss/openmemory)
 
-12. **[Memobase](https://memobase.io/)**
-      [![Star](https://img.shields.io/github/stars/memodb-io/memobase.svg?style=social&label=Star)](https://github.com/memodb-io/memobase)
+12. **[Memobase](https://memobase.io/)** ![Star](https://img.shields.io/github/stars/memodb-io/memobase.svg?style=social&label=Star)
+      [[code]](https://github.com/memodb-io/memobase)
       [[blog](https://www.memobase.io/blog)]
 
-13. **[EverMemOS (part of EverMind)](https://evermind-ai.com/)**
-      [![Star](https://img.shields.io/github/stars/EverMind-AI/EverMemOS.svg?style=social&label=Star)](https://github.com/EverMind-AI/EverMemOS)
+13. **[EverMemOS (part of EverMind)](https://evermind-ai.com/)** ![Star](https://img.shields.io/github/stars/EverMind-AI/EverMemOS.svg?style=social&label=Star)
+      [[code]](https://github.com/EverMind-AI/EverMemOS)
       [[blog](https://evermind-ai.com/blog/)]
 
-14. **[LangMem (part of LangChain-LangGraph)](https://langchain-ai.github.io/langmem/)**
-      [![Star](https://img.shields.io/github/stars/langchain-ai/langmem.svg?style=social&label=Star)](https://github.com/langchain-ai/langmem)
+14. **[LangMem (part of LangChain-LangGraph)](https://langchain-ai.github.io/langmem/)** ![Star](https://img.shields.io/github/stars/langchain-ai/langmem.svg?style=social&label=Star)
+      [[code]](https://github.com/langchain-ai/langmem)
       [[blog](https://blog.langchain.com/)]
 
-15. **[Hindsight](https://hindsight.vectorize.io/)**
-      [![Star](https://img.shields.io/github/stars/vectorize-io/hindsight.svg?style=social&label=Star)](https://github.com/vectorize-io/hindsight)
+15. **[Hindsight](https://hindsight.vectorize.io/)** ![Star](https://img.shields.io/github/stars/vectorize-io/hindsight.svg?style=social&label=Star)
+      [[code]](https://github.com/vectorize-io/hindsight)
       [[paper](https://arxiv.org/abs/2512.12818)]
 
-16. **[MemoryBear](https://www.memorybear.ai/)**
-      [![Star](https://img.shields.io/github/stars/SuanmoSuanyangTechnology/MemoryBear.svg?style=social&label=Star)](https://github.com/SuanmoSuanyangTechnology/MemoryBear)
+16. **[MemoryBear](https://www.memorybear.ai/)** ![Star](https://img.shields.io/github/stars/SuanmoSuanyangTechnology/MemoryBear.svg?style=social&label=Star)
+      [[code]](https://github.com/SuanmoSuanyangTechnology/MemoryBear)
       [[paper](https://arxiv.org/abs/2512.20651)]
 
 ### Closed-Source
