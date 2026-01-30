@@ -490,6 +490,8 @@ _Ordered by the number of Github stars._
 - **[Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://github.com/deepseek-ai/Engram/blob/main/Engram_paper.pdf)** (The DeepSeek **Engram** Paper)
     [[code](https://github.com/deepseek-ai/Engram/)]
 
+- [Fast-weight Product Key Memory](https://arxiv.org/abs/2601.00671)
+
 #### 🗓️ 2025
 
 - **[MLP Memory: Language Modeling with Retriever-pretrained External Memory](https://arxiv.org/abs/2508.01832)**
