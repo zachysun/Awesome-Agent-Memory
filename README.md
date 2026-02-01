@@ -489,6 +489,8 @@ _Ordered by the number of Github stars._
 
 - **[Conditional Memory via Scalable Lookup: A New Axis of Sparsity for Large Language Models](https://github.com/deepseek-ai/Engram/blob/main/Engram_paper.pdf)** (The DeepSeek **Engram** Paper)
     [[code](https://github.com/deepseek-ai/Engram/)]
+    + **[Beyond Conditional Computation: Retrieval-Augmented Genomic Foundation Models with Gengram](https://arxiv.org/abs/7211321)**
+        [[code](https://github.com/zhejianglab/Gengram/)]
 
 - [Fast-weight Product Key Memory](https://arxiv.org/abs/2601.00671)
 
