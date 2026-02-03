@@ -127,13 +127,13 @@ _Ordered by the number of Github stars._
       [[code]](https://github.com/EverMind-AI/EverMemOS)
       [[blog](https://evermind-ai.com/blog/)]
 
-14. **[LangMem (part of LangChain-LangGraph)](https://langchain-ai.github.io/langmem/)** ![Star](https://img.shields.io/github/stars/langchain-ai/langmem.svg?style=social&label=Star)
-      [[code]](https://github.com/langchain-ai/langmem)
-      [[blog](https://blog.langchain.com/)]
-
-15. **[Hindsight](https://hindsight.vectorize.io/)** ![Star](https://img.shields.io/github/stars/vectorize-io/hindsight.svg?style=social&label=Star)
+14. **[Hindsight](https://hindsight.vectorize.io/)** ![Star](https://img.shields.io/github/stars/vectorize-io/hindsight.svg?style=social&label=Star)
       [[code]](https://github.com/vectorize-io/hindsight)
       [[paper](https://arxiv.org/abs/2512.12818)]
+
+15. **[LangMem (part of LangChain-LangGraph)](https://langchain-ai.github.io/langmem/)** ![Star](https://img.shields.io/github/stars/langchain-ai/langmem.svg?style=social&label=Star)
+      [[code]](https://github.com/langchain-ai/langmem)
+      [[blog](https://blog.langchain.com/)]
 
 16. **[MemoryBear](https://www.memorybear.ai/)** ![Star](https://img.shields.io/github/stars/SuanmoSuanyangTechnology/MemoryBear.svg?style=social&label=Star)
       [[code]](https://github.com/SuanmoSuanyangTechnology/MemoryBear)
