@@ -635,6 +635,11 @@ _Ordered by the number of Github stars._
 
 ### 🧩 Context Engineering 
 
+#### 🗓️ 2026
+
+- **[CL-bench: A Benchmark for Context Learning](https://arxiv.org/abs/2602.03587)**
+  [[code](https://github.com/Tencent-Hunyuan/CL-bench)]
+
 #### 🗓️ 2025
 
 - **[Everything is Context: Agentic File System Abstraction for Context Engineering](https://arxiv.org/abs/2512.05470)**
