@@ -139,6 +139,10 @@ _Ordered by the number of Github stars._
       [[code]](https://github.com/SuanmoSuanyangTechnology/MemoryBear)
       [[paper](https://arxiv.org/abs/2512.20651)]
 
+17. **[Memov](https://github.com/memovai/memov)**
+     [[code](https://github.com/memovai/memov)]
+     _Git-based, traceable memory layer for Claude Code._
+
 ### Closed-Source
 
 1. [Supermemory](https://supermemory.ai/)
