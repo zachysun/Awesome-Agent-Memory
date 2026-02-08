@@ -562,6 +562,9 @@ _Ordered by the number of Github stars._
 
 #### 🗓️ 2026
 
+- **[MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents](https://arxiv.org/abs/2602.02474)**
+    [[code](https://github.com/ViktorAxelsen/MemSkill)]
+
 - **[Memento 2: Learning by Stateful Reflective Memory](https://arxiv.org/abs/2512.22716)**
     [[code](https://github.com/Agent-on-the-Fly/Memento)]
 
