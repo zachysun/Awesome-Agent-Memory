@@ -561,6 +561,8 @@ _Ordered by the number of Github stars._
 ### 🧭 Reinforcement Learning & Continual Learning 
 
 #### 🗓️ 2026
+- **[ProcMEM: Learning Reusable Procedural Memory from Experience via Non-Parametric PPO for LLM Agents](https://arxiv.org/abs/2602.01869)**
+    [[code](https://github.com/Miracle1207/ProcMEM)]
 
 - **[MemSkill: Learning and Evolving Memory Skills for Self-Evolving Agents](https://arxiv.org/abs/2602.02474)**
     [[code](https://github.com/ViktorAxelsen/MemSkill)]
