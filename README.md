@@ -102,23 +102,6 @@ _Ordered by the number of Github stars._
      [[code]](https://github.com/NevaMind-AI/memU)
      [[blog](https://memu.pro/blog)]
 
-<<<<<<< HEAD
-11. **[MemoryOS](https://baijia.online/memoryos/)**
-      [[code](https://github.com/BAI-LAB/MemoryOS)]
-      [[paper](https://arxiv.org/pdf/2506.06326)]
-
-12. **[EverMemOS (part of EverMind)](https://evermind-ai.com/)**
-    [[code](https://github.com/EverMind-AI/EverMemOS/)]
-    [[blog](https://evermind-ai.com/blog/)]
-
-13. **[LightMem](https://arxiv.org/pdf/2510.18866)**
-    [[code](https://github.com/zjunlp/LightMem)]
-
-14. **[TeleMem (under construction)]()**
-    [[code](https://github.com/TeleAI-UAGI/TeleMem)]
-
-    _To be realeased soon. Stay tuned._
-=======
 8. **[MemOS](https://memos.openmem.net/)** ![Star](https://img.shields.io/github/stars/MemTensor/MemOS.svg?style=social&label=Star)
      [[code]](https://github.com/MemTensor/MemOS)
      [[paper](https://arxiv.org/abs/2507.03724)]
@@ -159,7 +142,6 @@ _Ordered by the number of Github stars._
 17. **[Memov](https://github.com/memovai/memov)**![Star](https://img.shields.io/github/stars/memovai/memov.svg?style=social&label=Star)
      [[code](https://github.com/memovai/memov)]
      _Git-based, traceable memory layer for Claude Code._
->>>>>>> 35563bacfae4472c3a17e3e4cd7172972c013455
 
 ### Closed-Source
 
