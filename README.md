@@ -139,7 +139,11 @@ _Ordered by the number of Github stars._
       [[code]](https://github.com/SuanmoSuanyangTechnology/MemoryBear)
       [[paper](https://arxiv.org/abs/2512.20651)]
 
-17. **[Memov](https://github.com/memovai/memov)**![Star](https://img.shields.io/github/stars/memovai/memov.svg?style=social&label=Star)
+17. **[MemSearch](https://zilliztech.github.io/memsearch/)** ![Star](https://img.shields.io/github/stars/zilliztech/memsearch.svg?style=social&label=Star)
+      [[code]](https://github.com/zilliztech/memsearch)
+      _Inspired by OpenClaw._
+
+18. **[Memov](https://github.com/memovai/memov)**![Star](https://img.shields.io/github/stars/memovai/memov.svg?style=social&label=Star)
      [[code](https://github.com/memovai/memov)]
      _Git-based, traceable memory layer for Claude Code._
 
