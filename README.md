@@ -175,12 +175,7 @@ _Ordered by the number of Github stars._
 2. [Memary](https://kingjulio8238.github.io/memarydocs/)
    [[code](https://github.com/kingjulio8238/memary)]
 
-<<<<<<< HEAD
-3. [Nemori](https://arxiv.org/pdf/2508.03341)
-    [[code](https://github.com/nemori-ai/nemori)]
-=======
 ---
->>>>>>> 35563bacfae4472c3a17e3e4cd7172972c013455
 
 ## 📖 Tutorials
 
